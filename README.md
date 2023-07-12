@@ -1,4 +1,4 @@
-**📚 Supervised Learning Algorithms 🧠**
+# **📚 Supervised Learning Algorithms 🧠**
 
 This repository contains implementations of various supervised learning algorithms. Each algorithm is designed to solve different types of problems and can be used for tasks such as classification and regression.
 
