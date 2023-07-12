@@ -1,7 +1,9 @@
 **📚 Supervised Learning Algorithms 🧠**
+
 This repository contains implementations of various supervised learning algorithms. Each algorithm is designed to solve different types of problems and can be used for tasks such as classification and regression.
 
 **📋 Algorithms Included**
+
 The following supervised learning algorithms are implemented in this repository:
 
   1. 🌳 Decision Trees: A popular algorithm that uses a tree-like model to make decisions based on features.
